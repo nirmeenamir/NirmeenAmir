@@ -71,4 +71,4 @@ Git, IntelliJ IDEA, VS Code, SSMS, JavaFX
 ## 📫 Connect with Me
 
 * 📧 Email: [nermeenamir209@gmail.com](mailto:nermeenamir209@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+* 💼 LinkedIn: https://www.linkedin.com/in/nermeen-amir-3b299227b/
