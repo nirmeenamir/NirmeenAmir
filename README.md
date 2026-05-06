@@ -63,8 +63,7 @@ Git, IntelliJ IDEA, VS Code, SSMS, JavaFX
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nirmeenamir&show_icons=true&theme=tokyonight" /></p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=NermeenAmir&show_icons=true&theme=radical&cache_seconds=1800" />
 ---
 
 ## 📫 Connect with Me
