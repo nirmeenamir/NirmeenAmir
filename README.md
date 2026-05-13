@@ -37,7 +37,7 @@ Git, IntelliJ IDEA, VS Code, SSMS, JavaFX
 * Dual audio player with mixing features
 * Playback speed control & A-B looping
 
-(https://github.com/MazenFahim/AudioPlayer)
+(https://github.com/nirmeenamir/audio-player)
 
 ---
 
@@ -47,7 +47,7 @@ Git, IntelliJ IDEA, VS Code, SSMS, JavaFX
 * Generic design using templates
 * Supports multiple game variants (Misère, Pyramid, etc.)
 
-(https://github.com/MazenFahim/BoardGame)
+https://github.com/nirmeenamir/board-games
 
 ---
 
@@ -57,7 +57,7 @@ Git, IntelliJ IDEA, VS Code, SSMS, JavaFX
 * 15+ filters (grayscale, blur, edge detection, etc.)
 * Image transformations (rotate, crop, resize)
 
-
+https://github.com/nirmeenamir/image-processing
 ---
 
 ## 📊 GitHub Stats
