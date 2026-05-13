@@ -14,6 +14,7 @@
 
 ## 🛠️ Tech Stack
 
+
 ### 💻 Languages
 
 C++, Python, Java, JavaScript
@@ -57,7 +58,7 @@ https://github.com/nirmeenamir/board-games
 * 15+ filters (grayscale, blur, edge detection, etc.)
 * Image transformations (rotate, crop, resize)
 
-https://github.com/nirmeenamir/image-processing
+ https://github.com/nirmeenamir/image-processing
 ---
 
 ## 📊 GitHub Stats
