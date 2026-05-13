@@ -63,10 +63,14 @@ Git, IntelliJ IDEA, VS Code, SSMS, JavaFX
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmeenamir&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmeenamir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmeenamir&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=nirmeenamir&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📫 Connect with Me
 
 * 📧 Email: [nermeenamir209@gmail.com](mailto:nermeenamir209@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/nermeen-amir-3b299227b/
+* 💼 LinkedIn: https://www.linkedin.com/in/nermeenamir/
