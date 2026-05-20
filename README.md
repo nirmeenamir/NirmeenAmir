@@ -29,38 +29,6 @@ Git, IntelliJ IDEA, VS Code, SSMS, JavaFX
 
 ---
 
-## 📌 Featured Projects
-
-### 🎧 Desktop Audio Player
-
-* Built using **C++ & JUCE Framework**
-* Real-time waveform visualization
-* Dual audio player with mixing features
-* Playback speed control & A-B looping
-
-(https://github.com/nirmeenamir/audio-player)
-
----
-
-### 🎮 Board Game Framework
-
-* Modular **C++ framework** for multiple board games
-* Generic design using templates
-* Supports multiple game variants (Misère, Pyramid, etc.)
-
-https://github.com/nirmeenamir/board-games
-
----
-
-### 🖼️ Image Processing Application
-
-* Developed using **C++**
-* 15+ filters (grayscale, blur, edge detection, etc.)
-* Image transformations (rotate, crop, resize)
-
- https://github.com/nirmeenamir/image-processing
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
